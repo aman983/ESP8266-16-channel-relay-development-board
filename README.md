@@ -90,8 +90,10 @@ This is a ESP 8266 Automation module with inbulit power supply, DHT11, DHT22 and
 <br>
 
 <h3 align="center">Front and Bottom view of the board view of the board</h3>
- <div>
+ <div align="center">
   <img src="Assets/16front.png" width="500" title="PCB Layout">
+  </div>
+  <div align="center">
   <img src="Assets/16Back.png" width="500" title="PCB LAYOUT">
 </div>
 
